@@ -1,0 +1,800 @@
+[
+  {
+    "request_id": "3EF069233525",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Quantity Discrepancy",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe are writing to you regarding invoice [Invoice Number], which we received on [Date]. We have identified a discrepancy between the quantity of goods received and the quantity billed on the invoice.\n\nOur records indicate that we received [Quantity Received] units of [Product Name], while the invoice states [Quantity Billed] units.\n\nCould you please review this discrepancy and provide a revised invoice reflecting the correct quantity of goods received? We have attached a copy of our receiving documentation for your reference.\n\nWe appreciate your prompt attention to this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-002\n\u2022 GRN Number: GRN-2024-456\n\u2022 Discrepancy: 50 units overbilled\n\u2022 Value difference: $5,000\n\u2022 Request for revised invoice\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "approved",
+    "created_at": "2025-12-10T15:33:42.700209",
+    "approved_at": "2025-12-10T16:01:04.594805",
+    "rejected_at": null,
+    "sent_at": "2025-12-10T16:01:04.594809",
+    "approval_message_id": "<176536102392.42125.4685808771327251258@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "F3F9063A65E2",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Duplicate Invoice - [Your Company Name] - Invoice Number [Invoice Number]",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nOur Accounts Payable Team has received invoice number [Invoice Number] twice. We believe this is a duplicate submission and may indicate a billing error.\n\nTo ensure accurate processing and prevent any delays in payment, please verify your records and confirm whether this is indeed a duplicate invoice. If it is a duplicate, no further action is required. If the second invoice was sent in error, please disregard this email.\n\nIf, however, a balance is still outstanding, please provide a corrected invoice.\n\nThank you for your prompt attention to this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Duplicate Invoice: INV-2024-003\n\u2022 Original Invoice: INV-2024-001 (paid Nov 15)\n\u2022 Invoice Amount: $12,500\n\u2022 Request to void duplicate\n\u2022 Payment reference: PAY-2024-892\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "approved",
+    "created_at": "2025-12-10T15:33:46.298347",
+    "approved_at": "2025-12-10T16:06:02.506496",
+    "rejected_at": null,
+    "sent_at": "2025-12-10T16:06:02.506508",
+    "approval_message_id": "<176536102753.42125.407881643808820830@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "2892F6346DC2",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - GST/Tax Calculation Error",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe have identified an error in the GST/tax calculation on invoice [Invoice Number]. The amount stated does not align with our records.\n\nPlease review the invoice and provide a corrected version reflecting the accurate GST/tax amount of [Correct Amount].\n\nWe require the revised invoice by [Date] to ensure timely processing of your payment.\n\nThank you for your prompt attention to this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-004\n\u2022 HSN Code: 8471\n\u2022 Agreed GST Rate: 12%\n\u2022 Invoiced GST Rate: 18%\n\u2022 Excess amount: $1,200\n\u2022 Request for revised invoice\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:33:49.974632",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536103118.42125.3587152257966317990@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "D1DC848E95BD",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Missing Discount Application",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe are writing to you regarding invoice [Invoice Number], which does not reflect the agreed-upon discount outlined in our contract.\n\nAccording to the terms of our agreement, a [Discount Percentage]% discount should be applied to this invoice. We kindly request that you review the invoice and issue a revised version with the correct discount applied.\n\nPlease let us know when we can expect the updated invoice.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-005\n\u2022 Contract Reference: CTR-2023-078\n\u2022 Missing Discount: 10% volume discount\n\u2022 Amount to be credited: $3,500\n\u2022 Total invoice value: $35,000\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:33:53.556842",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536103481.42125.518735565489140455@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "FBDA26306557",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Monthly Statement Reconciliation Request",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nI hope this email finds you well.\n\nOur Accounts Team is currently reconciling our monthly statements, and we require your assistance to ensure accuracy. Please provide us with your statement for [Month, Year] at your earliest convenience.\n\nIf you have already sent this, please disregard this email. Otherwise, if you have any questions or require any clarification, please do not hesitate to reach out.\n\nThank you for your cooperation.\n\nSincerely,\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:33:57.442343",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536103874.42125.15212452823497426040@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "A502AA878EB4",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Purchase Order Confirmation - [Your Company Name]",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nThis email confirms the receipt of your purchase order. Thank you for your business!\n\nWe are now processing your order and will send a follow-up email with shipping details as soon as it is dispatched.\n\nIf you have any questions, please do not hesitate to contact us.\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:34:01.258089",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536104255.42125.6477975352205961392@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "3FD5819E5B30",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Payment Schedule Update",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nThis email is to inform you about an update to your payment schedule. Please note that [Clearly state the specific change, e.g., \"the payment due date for invoice #1234 has been moved to October 26, 2023\"].\n\nYou can view the updated schedule on [Specify where the recipient can find the updated schedule, e.g., \"our online portal at [link to portal]\" or \"the attached document\"].\n\nIf you have any questions or require further clarification, please do not hesitate to contact us.\n\nSincerely,\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:34:05.027079",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536104638.42125.14231817470375849369@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "7FD68E13EA7D",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Thank You for Timely Delivery",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nI hope this email finds you well.\n\nI am writing to express our sincere appreciation for the timely delivery of the recent shipment. Your efficiency in ensuring the order arrived as scheduled has been invaluable.\n\nThank you once again for your excellent service. We look forward to continuing our business relationship.\n\nSincerely,\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:34:12.526965",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536105390.42125.4325004285628570058@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "DB8B1B82073A",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Discrepancy in Unit Price",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe are writing to inform you of a discrepancy found in invoice [Invoice Number], which we received on [Date].\n\nOur records indicate that the unit price listed on the invoice does not match the agreed-upon price in our purchase order [Purchase Order Number] / contract [Contract Number]. The invoice states a unit price of [Incorrect Unit Price], while our agreed-upon price is [Correct Unit Price].\n\nPlease revise the invoice with the correct unit price and resubmit it to us at your earliest convenience. This will allow us to process your payment without further delay.\n\nIf you have any questions or require further clarification, please do not hesitate to contact us.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-001\n\u2022 PO Number: PO-2024-789\n\u2022 Discrepancy: Unit price mismatch ($150 vs $125)\n\u2022 Amount affected: $250 overcharge\n\u2022 Request for credit note\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:41:48.826784",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536151041.44046.6185210449384443310@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "00539E9D57C2",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Quantity Discrepancy",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe are writing to you regarding invoice [Invoice Number], which indicates a discrepancy between the quantity of goods received and the quantity billed. Our records show that we received [Quantity Received] units of [Product Name], while the invoice states [Quantity Billed] units.\n\nCould you please review this discrepancy and provide a revised invoice reflecting the correct quantity of [Quantity Received] units? We have attached a copy of our receiving report for your reference.\n\nWe need this corrected invoice to process the payment. Please send the updated invoice to [Your Email Address] at your earliest convenience.\n\nThank you for your prompt attention to this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-002\n\u2022 GRN Number: GRN-2024-456\n\u2022 Discrepancy: 50 units overbilled\n\u2022 Value difference: $5,000\n\u2022 Request for revised invoice\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:41:52.759701",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536151402.44046.16240269470059390605@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "8C3CDD162C4A",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Duplicate Invoice - [Your Company Name] - Invoice Number [Invoice Number]",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nOur Accounts Payable Team has received invoice number [Invoice Number] twice.\n\nPlease note that we only process invoices once, and this appears to be a duplicate submission. We kindly request that you refrain from sending the same invoice multiple times, as it may cause processing delays.\n\nWe will proceed with processing the original invoice.\n\nThank you for your cooperation.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Duplicate Invoice: INV-2024-003\n\u2022 Original Invoice: INV-2024-001 (paid Nov 15)\n\u2022 Invoice Amount: $12,500\n\u2022 Request to void duplicate\n\u2022 Payment reference: PAY-2024-892\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:41:56.387210",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536151763.44046.4934929554068027762@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "53F8524BE028",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - GST/Tax Calculation Error",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe have identified an error in the GST/tax calculation on invoice [Invoice Number]. The amount currently listed does not align with our records and calculations.\n\nWe request you to review the invoice and provide a revised version with the correct GST/tax amount at your earliest convenience. This will help us process the payment promptly.\n\nThank you for your cooperation in resolving this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-004\n\u2022 HSN Code: 8471\n\u2022 Agreed GST Rate: 12%\n\u2022 Invoiced GST Rate: 18%\n\u2022 Excess amount: $1,200\n\u2022 Request for revised invoice\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:42:00.017804",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536152143.44046.14734064779417113448@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "02DB567397C2",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Monthly Statement Reconciliation Request",
+    "draft_body": "Dear Dhivya,\n\nHope you are having a productive week.\n\nOur records indicate a potential discrepancy in the monthly statement for [Month, Year]. To ensure accuracy and proper reconciliation, we kindly request you to review the attached statement against your internal records.\n\nPlease let us know if your review identifies any differences. If there are discrepancies, please provide relevant details and supporting documentation, such as transaction records or receipts, so we can investigate further.\n\nYour prompt attention to this matter is highly appreciated. Please send your reconciliation review to us by [Date].\n\nThank you for your cooperation.\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:42:07.341250",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536152855.44046.10118258722625644634@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "81F84950DF6B",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Purchase Order Confirmation - [Your Company Name]",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nThis email confirms that we have received your purchase order and it is being processed.\n\nWe appreciate your business and will keep you updated on the shipment progress. You can expect to receive a notification with tracking information once your order has been dispatched.\n\nIf you have any questions, please do not hesitate to contact us.\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:42:10.969260",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536153218.44046.4400687392568541649@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "88A323FE3922",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Update to Your Payment Schedule",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nThis email is to inform you about an update to your payment schedule. Please note that the revised schedule is now available for your review.\n\nYou can access the updated schedule by logging into your account on our website: [link to website]. Alternatively, you can find it attached to this email.\n\nWe encourage you to review the new schedule at your earliest convenience. If you have any questions or require further clarification, please do not hesitate to contact us.\n\nThank you for your continued cooperation.\n\nSincerely,\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:42:14.542924",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536153574.44046.6116210119471817234@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "B81915CF4699",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invitation to Vendor Performance Review Meeting",
+    "draft_body": "Dear Dhivya,\n\nWe hope this email finds you well.\n\nWe would like to invite you to a vendor performance review meeting to discuss our ongoing partnership and identify opportunities for improvement. Your feedback is invaluable to us, and we believe this meeting will be beneficial for both parties.\n\nThe meeting is scheduled for [Date] at [Time] in [Location/Platform]. Please let us know if this time works for you or if you would prefer an alternative.\n\nWe look forward to a productive discussion.\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:42:18.083904",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536153930.44046.645253731877663426@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "C4ECAFE703D8",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Thank you for Timely Delivery",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nI hope this email finds you well.\n\nI am writing to express our sincere gratitude for the timely delivery of the recent shipment. We appreciate your efficiency and commitment to meeting the agreed-upon schedule. Your reliability is highly valued and contributes significantly to our operations.\n\nThank you once again for your excellent service.\n\nSincerely,\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:42:21.633900",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536154285.44046.17243422977035613911@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "94C775E2F9F5",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Discrepancy in Unit Price",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nThis email concerns invoice [Invoice Number] which we received on [Date]. We have identified a discrepancy regarding the unit price listed.\n\nAccording to our records, the agreed-upon unit price for [Product/Service Name] is [Correct Unit Price]. However, the invoice states a unit price of [Incorrect Unit Price].\n\nWe kindly request that you review the invoice and provide a revised version reflecting the correct unit price. Please send the updated invoice to [Your Accounts Payable Email Address].\n\nWe appreciate your prompt attention to this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-001\n\u2022 PO Number: PO-2024-789\n\u2022 Discrepancy: Unit price mismatch ($150 vs $125)\n\u2022 Amount affected: $250 overcharge\n\u2022 Request for credit note\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:45:33.741117",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536173496.45223.13875833050898165302@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "04B4294FF006",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Quantity Discrepancy",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe are writing to address a discrepancy regarding invoice [Invoice Number]. Upon review, the quantity of goods billed does not match the quantity received.\n\nOur records indicate that we received [Quantity Received] units of [Product Name], while the invoice states [Quantity Billed].\n\nPlease review this discrepancy and provide a revised invoice reflecting the correct quantity of goods received. We require the corrected invoice by [Date].\n\nThank you for your prompt attention to this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-002\n\u2022 GRN Number: GRN-2024-456\n\u2022 Discrepancy: 50 units overbilled\n\u2022 Value difference: $5,000\n\u2022 Request for revised invoice\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:45:37.427189",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536173864.45223.11395380565666914049@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "8DE13984FDA8",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Duplicate Invoice - [Your Company Name] - Invoice Number [Invoice Number]",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nOur records indicate that we have received invoice number [Invoice Number] twice. We received the first copy on [Date of first invoice] and a duplicate on [Date of second invoice].\n\nPlease disregard the second invoice. We will process the original invoice as per our payment terms.\n\nIf you have any questions or require further clarification, please do not hesitate to contact us.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Duplicate Invoice: INV-2024-003\n\u2022 Original Invoice: INV-2024-001 (paid Nov 15)\n\u2022 Invoice Amount: $12,500\n\u2022 Request to void duplicate\n\u2022 Payment reference: PAY-2024-892\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:45:40.984905",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536174219.45223.3980292139737294283@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "154760C0B6E1",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - GST/Tax Calculation Error",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe have identified an error in the GST/tax calculation on invoice [Invoice Number]. The amount invoiced does not align with our records and internal calculations.\n\nWe request you to review the invoice and provide a corrected version reflecting the accurate GST/tax amount. Please resubmit the revised invoice to [Your Email Address or Department Email Address] at your earliest convenience.\n\nWe require the corrected invoice to process the payment.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-004\n\u2022 HSN Code: 8471\n\u2022 Agreed GST Rate: 12%\n\u2022 Invoiced GST Rate: 18%\n\u2022 Excess amount: $1,200\n\u2022 Request for revised invoice\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:45:44.651577",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536174585.45223.10381005038950579306@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "8309D990934E",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Missing Contractual Discount",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe are writing to address a discrepancy in invoice [Invoice Number]. The contractual discount agreed upon in our contract [Contract Number, if applicable] has not been applied.\n\nPlease review the invoice and ensure that the agreed-upon discount of [Discount Percentage or Amount] is reflected. We have attached a copy of the relevant contract section for your reference.\n\nWe look forward to receiving a revised invoice reflecting the correct amount. Please let us know if you require any further information from our end.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-005\n\u2022 Contract Reference: CTR-2023-078\n\u2022 Missing Discount: 10% volume discount\n\u2022 Amount to be credited: $3,500\n\u2022 Total invoice value: $35,000\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:45:48.286006",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536174958.45223.2218707259045528057@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "1DFF5B790726",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Monthly Statement Reconciliation Request",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nHope you are doing well.\n\nThis email is to request your assistance in reconciling our monthly statement. Kindly review the attached statement for [Month, Year] and let us know if the details match your records.\n\nIf there are any discrepancies, please highlight them, so we can investigate and resolve them promptly.\n\nYour cooperation in this matter is highly appreciated.\n\nThank you!\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:45:51.972656",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536175318.45223.12522062225904446010@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "7B9BA636D5E2",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Purchase Order Confirmation - [Your Company Name]",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nThis email confirms that we have received your purchase order. Thank you for your order!\n\nWe are now processing it and will notify you again once it has shipped. You can expect to receive another email with tracking information at that time.\n\nIf you have any questions in the meantime, please don't hesitate to contact us.\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:45:55.693912",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536175694.45223.687640768914648365@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "8BF746F70D03",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Payment Schedule Update",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nI hope this email finds you well.\n\nWe are writing to inform you of an update to your payment schedule. Please note that [briefly state the specific change, e.g., \"the next payment due date has been adjusted to October 26, 2023,\" or \"there will be a slight increase in the monthly payment amount starting next month\"].\n\n[If applicable, include the reason for the change, e.g., \"This change is due to adjustments in the interest rates.\" or \"This is to align with the project's updated timeline.\"]\n\nYou can view the updated payment schedule by [specify how they can view the updated schedule, e.g., \"logging into your account on our website\" or \"reviewing the attached document\"].\n\nIf you have any questions or require further clarification, please do not hesitate to contact us.\n\nThank you for your understanding.\n\nSincerely,\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:45:59.318325",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536176054.45223.6577335529338413274@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "93D369B39E8E",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invitation to Vendor Performance Review Meeting",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nI hope this email finds you well.\n\nWe would like to invite you to a vendor performance review meeting to discuss our partnership and explore opportunities for improvement. Your insights are valuable to us, and we believe this meeting will be mutually beneficial.\n\nThe meeting is scheduled for [Insert Date] at [Insert Time] in [Insert Location/Virtual Meeting Link]. Please let us know if this time works for you, or if you require an alternative arrangement.\n\nWe look forward to a productive discussion.\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:46:02.913659",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536176414.45223.18249332063457006369@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "7B4E49895428",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Thank you for Timely Delivery",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nI hope this email finds you well.\n\nI am writing to express our sincere gratitude for the timely delivery of the recent shipment. Your efficiency and dedication to meeting deadlines are greatly appreciated.\n\nThank you once again for your excellent service. We look forward to continuing our business relationship with you.\n\nAccounts Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:46:06.531669",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536176772.45223.10607794054274885992@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "6D34FF1AA862",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Discrepancy in Unit Price",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe are writing to notify you of a discrepancy regarding invoice [Invoice Number]. Upon review, we have identified an incorrect unit price listed.\n\nAccording to our records, the agreed-upon unit price for [Product/Service Name] is [Correct Unit Price]. However, the invoice reflects a unit price of [Incorrect Unit Price].\n\nPlease revise the invoice with the correct unit price and resubmit it to us at your earliest convenience. This will allow us to process the payment promptly.\n\nWe appreciate your attention to this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-001\n\u2022 PO Number: PO-2024-789\n\u2022 Discrepancy: Unit price mismatch ($150 vs $125)\n\u2022 Amount affected: $250 overcharge\n\u2022 Request for credit note\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:49:45.257014",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536198681.46064.14357326665166500818@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "9DCFF84C3517",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Quantity Discrepancy",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe are writing to address a discrepancy regarding the quantity of items listed on invoice [Invoice Number]. Our records indicate that the quantity of goods received does not match the quantity billed on the invoice.\n\nSpecifically, we received [Quantity Received] units of [Item Name], while the invoice reflects a charge for [Quantity Billed] units.\n\nCould you please review this discrepancy and provide a revised invoice reflecting the correct quantity received? We have attached a copy of our receiving report for your reference.\n\nWe appreciate your prompt attention to this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-002\n\u2022 GRN Number: GRN-2024-456\n\u2022 Discrepancy: 50 units overbilled\n\u2022 Value difference: $5,000\n\u2022 Request for revised invoice\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:49:49.297360",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536199049.46064.11510264100412312779@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "C8C1F3027CF1",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Duplicate Invoice - [Your Company Name] - Invoice Number [Invoice Number]",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe are writing to inform you that we have received invoice number [Invoice Number] twice. This appears to be a duplicate submission.\n\nPlease disregard the second invoice. We will process the original invoice as per our agreed-upon terms. If there is a valid reason for the duplicate submission, please let us know immediately, providing the necessary details to clarify the situation.\n\nThank you for your attention to this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Duplicate Invoice: INV-2024-003\n\u2022 Original Invoice: INV-2024-001 (paid Nov 15)\n\u2022 Invoice Amount: $12,500\n\u2022 Request to void duplicate\n\u2022 Payment reference: PAY-2024-892\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:49:52.988066",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536199418.46064.1087179185307809155@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "3CB87CC0F368",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - GST/Tax Calculation Error",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe have identified a discrepancy in the GST/Tax calculation on invoice [Invoice Number]. The amount calculated appears to be incorrect based on our records and understanding of the applicable tax rates.\n\nPlease review the invoice and provide a corrected version at your earliest convenience. This will help us process the payment without further delay.\n\nThank you for your prompt attention to this matter.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-004\n\u2022 HSN Code: 8471\n\u2022 Agreed GST Rate: 12%\n\u2022 Invoiced GST Rate: 18%\n\u2022 Excess amount: $1,200\n\u2022 Request for revised invoice\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:49:56.565261",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536199781.46064.3919968386741446347@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "51A474E68EE7",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Missing Contractual Discount",
+    "draft_body": "Dear Dhivya Sreenidhi Durai,\n\nDear Dhivya Sreenidhi Durai,\n\nWe are writing to address a discrepancy in invoice [Invoice Number], which we received on [Date]. According to our contract terms, a [Discount Percentage]% discount should have been applied. However, this discount is not reflected in the invoice.\n\nPlease revise the invoice to include the agreed-upon discount of [Discount Percentage]% as per the terms outlined in our contract [Contract Number or Reference].\n\nWe look forward to receiving the corrected invoice at your earliest convenience.\n\nAccounts Payable Team\n\nKey Details:\n\u2022 Invoice Number: INV-2024-005\n\u2022 Contract Reference: CTR-2023-078\n\u2022 Missing Discount: 10% volume discount\n\u2022 Amount to be credited: $3,500\n\u2022 Total invoice value: $35,000\n\nPlease review this discrepancy and provide a resolution at your earliest convenience.\n\nBest regards,\nAccounts Payable Team",
+    "draft_body_html": null,
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:50:00.195779",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536200144.46064.3798132030455684@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "5A9017403C49",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Discrepancy in Unit Price",
+    "draft_body": "Dear Dhivya Sreenidhi Durai Team,\n\nInvoice #INV-2024-001 shows unit price of $150 but PO #PO-2024-789 states $125. Total overcharge of $250 across 10 units.\n\n\nFOUND DISCREPANCIES:\n\n--------------------------------------------------\n\n\u2022 Invoice Number\n  INV-2024-001\n\n\u2022 PO Number\n  PO-2024-789\n\n\u2022 Discrepancy\n  Unit price mismatch ($150 vs $125)\n\n\u2022 Amount affected\n  $250 overcharge\n\n\u2022 Issue\n  Request for credit note\n\n\n\nBest regards,\nAccounts Payable Team\nGenBooks",
+    "draft_body_html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Invoice [Invoice Number] - Discrepancy in Unit Price</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 650px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n\n        .header {\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 30px;\n            border-radius: 8px 8px 0 0;\n            text-align: center;\n        }\n\n        .header h1 {\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n        }\n\n        .content {\n            background: #f9fafb;\n            padding: 30px;\n            border-left: 1px solid #e5e7eb;\n            border-right: 1px solid #e5e7eb;\n        }\n\n        .greeting {\n            font-size: 16px;\n            margin-bottom: 20px;\n            color: #1f2937;\n        }\n\n        .intro {\n            margin-bottom: 25px;\n            line-height: 1.8;\n        }\n\n        .section-title {\n            font-size: 14px;\n            font-weight: 700;\n            color: #6b7280;\n            text-transform: uppercase;\n            letter-spacing: 0.5px;\n            margin: 30px 0 15px 0;\n            padding-bottom: 8px;\n            border-bottom: 2px solid #e5e7eb;\n        }\n\n        .discrepancy-list {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n        }\n\n        .disc-item {\n            padding: 15px;\n            border-left: 4px solid #f59e0b;\n            background: #fef3c7;\n            margin-bottom: 15px;\n            border-radius: 4px;\n        }\n\n        .disc-item:last-child {\n            margin-bottom: 0;\n        }\n\n        .disc-item strong {\n            color: #92400e;\n            display: block;\n            margin-bottom: 5px;\n        }\n\n        .key-points {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n        }\n\n        .key-points li {\n            margin-bottom: 10px;\n            padding-left: 10px;\n        }\n\n        .key-points li::marker {\n            color: #667eea;\n            font-weight: bold;\n        }\n\n        .action-request {\n            background: #eef2ff;\n            border-left: 4px solid #667eea;\n            padding: 20px;\n            margin: 25px 0;\n            border-radius: 4px;\n        }\n\n        .action-request p {\n            margin: 10px 0;\n        }\n\n        .cta {\n            text-align: center;\n            margin: 30px 0;\n        }\n\n        .cta-button {\n            display: inline-block;\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 15px 40px;\n            text-decoration: none;\n            border-radius: 6px;\n            font-weight: 600;\n            transition: transform 0.2s;\n        }\n\n        .cta-button:hover {\n            transform: translateY(-2px);\n        }\n\n        .footer {\n            background: #1f2937;\n            color: #9ca3af;\n            padding: 30px;\n            border-radius: 0 0 8px 8px;\n            text-align: center;\n        }\n\n        .footer .signature {\n            color: white;\n            margin-bottom: 5px;\n        }\n\n        .footer .company {\n            font-size: 12px;\n            color: #6b7280;\n        }\n\n        .warning {\n            background: #fef3c7;\n            border: 1px solid #f59e0b;\n            padding: 15px;\n            border-radius: 6px;\n            margin: 20px 0;\n            display: flex;\n            align-items: flex-start;\n        }\n\n        .warning-icon {\n            color: #f59e0b;\n            margin-right: 12px;\n            font-size: 20px;\n            flex-shrink: 0;\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"header\">\n        <h1>\ud83d\udd0d Discrepancy Notification</h1>\n    </div>\n\n    <div class=\"content\">\n        <div class=\"greeting\">\n            Dear Dhivya Sreenidhi Durai Team,\n        </div>\n\n        <div class=\"intro\">\n            Invoice #INV-2024-001 shows unit price of $150 but PO #PO-2024-789 states $125. Total overcharge of $250 across 10 units.\n        </div>\n\n        \n        <div class=\"section-title\">\n            \ud83d\udccb Found Discrepancies\n        </div>\n\n        <div class=\"discrepancy-list\">\n            <div class=\"disc-item\">\n                <strong>Invoice Number</strong>\n                INV-2024-001\n            </div>\n            <div class=\"disc-item\">\n                <strong>PO Number</strong>\n                PO-2024-789\n            </div>\n            <div class=\"disc-item\">\n                <strong>Discrepancy</strong>\n                Unit price mismatch ($150 vs $125)\n            </div>\n            <div class=\"disc-item\">\n                <strong>Amount affected</strong>\n                $250 overcharge\n            </div>\n            <div class=\"disc-item\">\n                <strong>Issue</strong>\n                Request for credit note\n            </div>\n        </div>\n\n        \n\n        <div class=\"section-title\">\n            \u2705 Request for Action\n        </div>\n\n        <div class=\"action-request\">\n            <p>To proceed with payment processing, we kindly request the following:</p>\n            <ul>\n                <li>Review the discrepancies outlined above</li>\n                <li>Provide corrected information or clarification</li>\n                <li>Issue a revised invoice/credit note if applicable</li>\n                <li>Confirm receipt and expected timeline for resolution</li>\n            </ul>\n        </div>\n\n        \n        <div class=\"cta\">\n            <a href=\"mailto:ap@genbooks.com\" class=\"cta-button\">Reply to This Email</a>\n        </div>\n\n        \n        <div class=\"warning\">\n            <div class=\"warning-icon\">\u26a0\ufe0f</div>\n            <div>Please respond within 5 business days to avoid payment delays.</div>\n        </div>\n\n        <div style=\"margin-top: 30px;\">\n            <p>We value our partnership and appreciate your prompt attention to this matter.</p>\n            <p>If you have any questions or need clarification, please don't hesitate to contact us.</p>\n        </div>\n    </div>\n\n    <div class=\"footer\">\n        <div class=\"signature\">\n            <strong>Best regards,</strong><br>\n            Accounts Payable Team<br>\n            GenBooks\n        </div>\n        <div class=\"company\">\n            <br>\n            <br>\n            <br>\n            <small>This email was automated by DRA System</small>\n        </div>\n    </div>\n</body>\n\n</html>",
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:59:27.263665",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536256901.47002.15288020056997599103@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "9CB80EAD84F9",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Quantity Discrepancy",
+    "draft_body": "Dear Dhivya Sreenidhi Durai Team,\n\nInvoice #INV-2024-002 bills for 500 units but only 450 units were received as per GRN #GRN-2024-456. Requesting adjustment.\n\n\nFOUND DISCREPANCIES:\n\n--------------------------------------------------\n\n\u2022 Invoice Number\n  INV-2024-002\n\n\u2022 GRN Number\n  GRN-2024-456\n\n\u2022 Discrepancy\n  50 units overbilled\n\n\u2022 Value difference\n  $5,000\n\n\u2022 Issue\n  Request for revised invoice\n\n\n\nBest regards,\nAccounts Payable Team\nGenBooks",
+    "draft_body_html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Invoice [Invoice Number] - Quantity Discrepancy</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 650px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n\n        .header {\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 30px;\n            border-radius: 8px 8px 0 0;\n            text-align: center;\n        }\n\n        .header h1 {\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n        }\n\n        .content {\n            background: #f9fafb;\n            padding: 30px;\n            border-left: 1px solid #e5e7eb;\n            border-right: 1px solid #e5e7eb;\n        }\n\n        .greeting {\n            font-size: 16px;\n            margin-bottom: 20px;\n            color: #1f2937;\n        }\n\n        .intro {\n            margin-bottom: 25px;\n            line-height: 1.8;\n        }\n\n        .section-title {\n            font-size: 14px;\n            font-weight: 700;\n            color: #6b7280;\n            text-transform: uppercase;\n            letter-spacing: 0.5px;\n            margin: 30px 0 15px 0;\n            padding-bottom: 8px;\n            border-bottom: 2px solid #e5e7eb;\n        }\n\n        .discrepancy-list {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n        }\n\n        .disc-item {\n            padding: 15px;\n            border-left: 4px solid #f59e0b;\n            background: #fef3c7;\n            margin-bottom: 15px;\n            border-radius: 4px;\n        }\n\n        .disc-item:last-child {\n            margin-bottom: 0;\n        }\n\n        .disc-item strong {\n            color: #92400e;\n            display: block;\n            margin-bottom: 5px;\n        }\n\n        .key-points {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n        }\n\n        .key-points li {\n            margin-bottom: 10px;\n            padding-left: 10px;\n        }\n\n        .key-points li::marker {\n            color: #667eea;\n            font-weight: bold;\n        }\n\n        .action-request {\n            background: #eef2ff;\n            border-left: 4px solid #667eea;\n            padding: 20px;\n            margin: 25px 0;\n            border-radius: 4px;\n        }\n\n        .action-request p {\n            margin: 10px 0;\n        }\n\n        .cta {\n            text-align: center;\n            margin: 30px 0;\n        }\n\n        .cta-button {\n            display: inline-block;\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 15px 40px;\n            text-decoration: none;\n            border-radius: 6px;\n            font-weight: 600;\n            transition: transform 0.2s;\n        }\n\n        .cta-button:hover {\n            transform: translateY(-2px);\n        }\n\n        .footer {\n            background: #1f2937;\n            color: #9ca3af;\n            padding: 30px;\n            border-radius: 0 0 8px 8px;\n            text-align: center;\n        }\n\n        .footer .signature {\n            color: white;\n            margin-bottom: 5px;\n        }\n\n        .footer .company {\n            font-size: 12px;\n            color: #6b7280;\n        }\n\n        .warning {\n            background: #fef3c7;\n            border: 1px solid #f59e0b;\n            padding: 15px;\n            border-radius: 6px;\n            margin: 20px 0;\n            display: flex;\n            align-items: flex-start;\n        }\n\n        .warning-icon {\n            color: #f59e0b;\n            margin-right: 12px;\n            font-size: 20px;\n            flex-shrink: 0;\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"header\">\n        <h1>\ud83d\udd0d Discrepancy Notification</h1>\n    </div>\n\n    <div class=\"content\">\n        <div class=\"greeting\">\n            Dear Dhivya Sreenidhi Durai Team,\n        </div>\n\n        <div class=\"intro\">\n            Invoice #INV-2024-002 bills for 500 units but only 450 units were received as per GRN #GRN-2024-456. Requesting adjustment.\n        </div>\n\n        \n        <div class=\"section-title\">\n            \ud83d\udccb Found Discrepancies\n        </div>\n\n        <div class=\"discrepancy-list\">\n            <div class=\"disc-item\">\n                <strong>Invoice Number</strong>\n                INV-2024-002\n            </div>\n            <div class=\"disc-item\">\n                <strong>GRN Number</strong>\n                GRN-2024-456\n            </div>\n            <div class=\"disc-item\">\n                <strong>Discrepancy</strong>\n                50 units overbilled\n            </div>\n            <div class=\"disc-item\">\n                <strong>Value difference</strong>\n                $5,000\n            </div>\n            <div class=\"disc-item\">\n                <strong>Issue</strong>\n                Request for revised invoice\n            </div>\n        </div>\n\n        \n\n        <div class=\"section-title\">\n            \u2705 Request for Action\n        </div>\n\n        <div class=\"action-request\">\n            <p>To proceed with payment processing, we kindly request the following:</p>\n            <ul>\n                <li>Review the discrepancies outlined above</li>\n                <li>Provide corrected information or clarification</li>\n                <li>Issue a revised invoice/credit note if applicable</li>\n                <li>Confirm receipt and expected timeline for resolution</li>\n            </ul>\n        </div>\n\n        \n        <div class=\"cta\">\n            <a href=\"mailto:ap@genbooks.com\" class=\"cta-button\">Reply to This Email</a>\n        </div>\n\n        \n        <div class=\"warning\">\n            <div class=\"warning-icon\">\u26a0\ufe0f</div>\n            <div>Please respond within 5 business days to avoid payment delays.</div>\n        </div>\n\n        <div style=\"margin-top: 30px;\">\n            <p>We value our partnership and appreciate your prompt attention to this matter.</p>\n            <p>If you have any questions or need clarification, please don't hesitate to contact us.</p>\n        </div>\n    </div>\n\n    <div class=\"footer\">\n        <div class=\"signature\">\n            <strong>Best regards,</strong><br>\n            Accounts Payable Team<br>\n            GenBooks\n        </div>\n        <div class=\"company\">\n            <br>\n            <br>\n            <br>\n            <small>This email was automated by DRA System</small>\n        </div>\n    </div>\n</body>\n\n</html>",
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:59:31.869974",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536257310.47002.15701106817510879035@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "6D81D70BF080",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Duplicate Invoice - [Your Company Name] - Invoice Number [Invoice Number]",
+    "draft_body": "Dear Dhivya Sreenidhi Durai Team,\n\nInvoice #INV-2024-003 appears to be a duplicate of #INV-2024-001 which was already paid on Nov 15, 2024.\n\n\nFOUND DISCREPANCIES:\n\n--------------------------------------------------\n\n\u2022 Duplicate Invoice\n  INV-2024-003\n\n\u2022 Original Invoice\n  INV-2024-001 (paid Nov 15)\n\n\u2022 Invoice Amount\n  $12,500\n\n\u2022 Issue\n  Request to void duplicate\n\n\u2022 Payment reference\n  PAY-2024-892\n\n\n\nBest regards,\nAccounts Payable Team\nGenBooks",
+    "draft_body_html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Duplicate Invoice - [Your Company Name] - Invoice Number [Invoice Number]</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 650px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n\n        .header {\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 30px;\n            border-radius: 8px 8px 0 0;\n            text-align: center;\n        }\n\n        .header h1 {\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n        }\n\n        .content {\n            background: #f9fafb;\n            padding: 30px;\n            border-left: 1px solid #e5e7eb;\n            border-right: 1px solid #e5e7eb;\n        }\n\n        .greeting {\n            font-size: 16px;\n            margin-bottom: 20px;\n            color: #1f2937;\n        }\n\n        .intro {\n            margin-bottom: 25px;\n            line-height: 1.8;\n        }\n\n        .section-title {\n            font-size: 14px;\n            font-weight: 700;\n            color: #6b7280;\n            text-transform: uppercase;\n            letter-spacing: 0.5px;\n            margin: 30px 0 15px 0;\n            padding-bottom: 8px;\n            border-bottom: 2px solid #e5e7eb;\n        }\n\n        .discrepancy-list {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n        }\n\n        .disc-item {\n            padding: 15px;\n            border-left: 4px solid #f59e0b;\n            background: #fef3c7;\n            margin-bottom: 15px;\n            border-radius: 4px;\n        }\n\n        .disc-item:last-child {\n            margin-bottom: 0;\n        }\n\n        .disc-item strong {\n            color: #92400e;\n            display: block;\n            margin-bottom: 5px;\n        }\n\n        .key-points {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n        }\n\n        .key-points li {\n            margin-bottom: 10px;\n            padding-left: 10px;\n        }\n\n        .key-points li::marker {\n            color: #667eea;\n            font-weight: bold;\n        }\n\n        .action-request {\n            background: #eef2ff;\n            border-left: 4px solid #667eea;\n            padding: 20px;\n            margin: 25px 0;\n            border-radius: 4px;\n        }\n\n        .action-request p {\n            margin: 10px 0;\n        }\n\n        .cta {\n            text-align: center;\n            margin: 30px 0;\n        }\n\n        .cta-button {\n            display: inline-block;\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 15px 40px;\n            text-decoration: none;\n            border-radius: 6px;\n            font-weight: 600;\n            transition: transform 0.2s;\n        }\n\n        .cta-button:hover {\n            transform: translateY(-2px);\n        }\n\n        .footer {\n            background: #1f2937;\n            color: #9ca3af;\n            padding: 30px;\n            border-radius: 0 0 8px 8px;\n            text-align: center;\n        }\n\n        .footer .signature {\n            color: white;\n            margin-bottom: 5px;\n        }\n\n        .footer .company {\n            font-size: 12px;\n            color: #6b7280;\n        }\n\n        .warning {\n            background: #fef3c7;\n            border: 1px solid #f59e0b;\n            padding: 15px;\n            border-radius: 6px;\n            margin: 20px 0;\n            display: flex;\n            align-items: flex-start;\n        }\n\n        .warning-icon {\n            color: #f59e0b;\n            margin-right: 12px;\n            font-size: 20px;\n            flex-shrink: 0;\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"header\">\n        <h1>\ud83d\udd0d Discrepancy Notification</h1>\n    </div>\n\n    <div class=\"content\">\n        <div class=\"greeting\">\n            Dear Dhivya Sreenidhi Durai Team,\n        </div>\n\n        <div class=\"intro\">\n            Invoice #INV-2024-003 appears to be a duplicate of #INV-2024-001 which was already paid on Nov 15, 2024.\n        </div>\n\n        \n        <div class=\"section-title\">\n            \ud83d\udccb Found Discrepancies\n        </div>\n\n        <div class=\"discrepancy-list\">\n            <div class=\"disc-item\">\n                <strong>Duplicate Invoice</strong>\n                INV-2024-003\n            </div>\n            <div class=\"disc-item\">\n                <strong>Original Invoice</strong>\n                INV-2024-001 (paid Nov 15)\n            </div>\n            <div class=\"disc-item\">\n                <strong>Invoice Amount</strong>\n                $12,500\n            </div>\n            <div class=\"disc-item\">\n                <strong>Issue</strong>\n                Request to void duplicate\n            </div>\n            <div class=\"disc-item\">\n                <strong>Payment reference</strong>\n                PAY-2024-892\n            </div>\n        </div>\n\n        \n\n        <div class=\"section-title\">\n            \u2705 Request for Action\n        </div>\n\n        <div class=\"action-request\">\n            <p>To proceed with payment processing, we kindly request the following:</p>\n            <ul>\n                <li>Review the discrepancies outlined above</li>\n                <li>Provide corrected information or clarification</li>\n                <li>Issue a revised invoice/credit note if applicable</li>\n                <li>Confirm receipt and expected timeline for resolution</li>\n            </ul>\n        </div>\n\n        \n        <div class=\"cta\">\n            <a href=\"mailto:ap@genbooks.com\" class=\"cta-button\">Reply to This Email</a>\n        </div>\n\n        \n        <div class=\"warning\">\n            <div class=\"warning-icon\">\u26a0\ufe0f</div>\n            <div>Please respond within 5 business days to avoid payment delays.</div>\n        </div>\n\n        <div style=\"margin-top: 30px;\">\n            <p>We value our partnership and appreciate your prompt attention to this matter.</p>\n            <p>If you have any questions or need clarification, please don't hesitate to contact us.</p>\n        </div>\n    </div>\n\n    <div class=\"footer\">\n        <div class=\"signature\">\n            <strong>Best regards,</strong><br>\n            Accounts Payable Team<br>\n            GenBooks\n        </div>\n        <div class=\"company\">\n            <br>\n            <br>\n            <br>\n            <small>This email was automated by DRA System</small>\n        </div>\n    </div>\n</body>\n\n</html>",
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:59:38.080044",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536257961.47002.5759526262938269301@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "198CE2AD60A0",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Insert Invoice Number] - GST Calculation Discrepancy",
+    "draft_body": "Dear Dhivya Sreenidhi Durai Team,\n\nInvoice #INV-2024-004 shows 18% GST but our agreement specifies 12% under HSN 8471. Excess tax charged: $1,200.\n\n\nFOUND DISCREPANCIES:\n\n--------------------------------------------------\n\n\u2022 Invoice Number\n  INV-2024-004\n\n\u2022 HSN Code\n  8471\n\n\u2022 Agreed GST Rate\n  12%\n\n\u2022 Invoiced GST Rate\n  18%\n\n\u2022 Excess amount\n  $1,200\n\n\u2022 Issue\n  Request for revised invoice\n\n\n\nBest regards,\nAccounts Payable Team\nGenBooks",
+    "draft_body_html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Invoice [Insert Invoice Number] - GST Calculation Discrepancy</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 650px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n\n        .header {\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 30px;\n            border-radius: 8px 8px 0 0;\n            text-align: center;\n        }\n\n        .header h1 {\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n        }\n\n        .content {\n            background: #f9fafb;\n            padding: 30px;\n            border-left: 1px solid #e5e7eb;\n            border-right: 1px solid #e5e7eb;\n        }\n\n        .greeting {\n            font-size: 16px;\n            margin-bottom: 20px;\n            color: #1f2937;\n        }\n\n        .intro {\n            margin-bottom: 25px;\n            line-height: 1.8;\n        }\n\n        .section-title {\n            font-size: 14px;\n            font-weight: 700;\n            color: #6b7280;\n            text-transform: uppercase;\n            letter-spacing: 0.5px;\n            margin: 30px 0 15px 0;\n            padding-bottom: 8px;\n            border-bottom: 2px solid #e5e7eb;\n        }\n\n        .discrepancy-list {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n        }\n\n        .disc-item {\n            padding: 15px;\n            border-left: 4px solid #f59e0b;\n            background: #fef3c7;\n            margin-bottom: 15px;\n            border-radius: 4px;\n        }\n\n        .disc-item:last-child {\n            margin-bottom: 0;\n        }\n\n        .disc-item strong {\n            color: #92400e;\n            display: block;\n            margin-bottom: 5px;\n        }\n\n        .key-points {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n        }\n\n        .key-points li {\n            margin-bottom: 10px;\n            padding-left: 10px;\n        }\n\n        .key-points li::marker {\n            color: #667eea;\n            font-weight: bold;\n        }\n\n        .action-request {\n            background: #eef2ff;\n            border-left: 4px solid #667eea;\n            padding: 20px;\n            margin: 25px 0;\n            border-radius: 4px;\n        }\n\n        .action-request p {\n            margin: 10px 0;\n        }\n\n        .cta {\n            text-align: center;\n            margin: 30px 0;\n        }\n\n        .cta-button {\n            display: inline-block;\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 15px 40px;\n            text-decoration: none;\n            border-radius: 6px;\n            font-weight: 600;\n            transition: transform 0.2s;\n        }\n\n        .cta-button:hover {\n            transform: translateY(-2px);\n        }\n\n        .footer {\n            background: #1f2937;\n            color: #9ca3af;\n            padding: 30px;\n            border-radius: 0 0 8px 8px;\n            text-align: center;\n        }\n\n        .footer .signature {\n            color: white;\n            margin-bottom: 5px;\n        }\n\n        .footer .company {\n            font-size: 12px;\n            color: #6b7280;\n        }\n\n        .warning {\n            background: #fef3c7;\n            border: 1px solid #f59e0b;\n            padding: 15px;\n            border-radius: 6px;\n            margin: 20px 0;\n            display: flex;\n            align-items: flex-start;\n        }\n\n        .warning-icon {\n            color: #f59e0b;\n            margin-right: 12px;\n            font-size: 20px;\n            flex-shrink: 0;\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"header\">\n        <h1>\ud83d\udd0d Discrepancy Notification</h1>\n    </div>\n\n    <div class=\"content\">\n        <div class=\"greeting\">\n            Dear Dhivya Sreenidhi Durai Team,\n        </div>\n\n        <div class=\"intro\">\n            Invoice #INV-2024-004 shows 18% GST but our agreement specifies 12% under HSN 8471. Excess tax charged: $1,200.\n        </div>\n\n        \n        <div class=\"section-title\">\n            \ud83d\udccb Found Discrepancies\n        </div>\n\n        <div class=\"discrepancy-list\">\n            <div class=\"disc-item\">\n                <strong>Invoice Number</strong>\n                INV-2024-004\n            </div>\n            <div class=\"disc-item\">\n                <strong>HSN Code</strong>\n                8471\n            </div>\n            <div class=\"disc-item\">\n                <strong>Agreed GST Rate</strong>\n                12%\n            </div>\n            <div class=\"disc-item\">\n                <strong>Invoiced GST Rate</strong>\n                18%\n            </div>\n            <div class=\"disc-item\">\n                <strong>Excess amount</strong>\n                $1,200\n            </div>\n            <div class=\"disc-item\">\n                <strong>Issue</strong>\n                Request for revised invoice\n            </div>\n        </div>\n\n        \n\n        <div class=\"section-title\">\n            \u2705 Request for Action\n        </div>\n\n        <div class=\"action-request\">\n            <p>To proceed with payment processing, we kindly request the following:</p>\n            <ul>\n                <li>Review the discrepancies outlined above</li>\n                <li>Provide corrected information or clarification</li>\n                <li>Issue a revised invoice/credit note if applicable</li>\n                <li>Confirm receipt and expected timeline for resolution</li>\n            </ul>\n        </div>\n\n        \n        <div class=\"cta\">\n            <a href=\"mailto:ap@genbooks.com\" class=\"cta-button\">Reply to This Email</a>\n        </div>\n\n        \n        <div class=\"warning\">\n            <div class=\"warning-icon\">\u26a0\ufe0f</div>\n            <div>Please respond within 5 business days to avoid payment delays.</div>\n        </div>\n\n        <div style=\"margin-top: 30px;\">\n            <p>We value our partnership and appreciate your prompt attention to this matter.</p>\n            <p>If you have any questions or need clarification, please don't hesitate to contact us.</p>\n        </div>\n    </div>\n\n    <div class=\"footer\">\n        <div class=\"signature\">\n            <strong>Best regards,</strong><br>\n            Accounts Payable Team<br>\n            GenBooks\n        </div>\n        <div class=\"company\">\n            <br>\n            <br>\n            <br>\n            <small>This email was automated by DRA System</small>\n        </div>\n    </div>\n</body>\n\n</html>",
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:59:42.003563",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536258333.47002.1171257149439597625@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "655C2DF89B13",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invoice [Invoice Number] - Discount Not Applied",
+    "draft_body": "Dear Dhivya Sreenidhi Durai Team,\n\nInvoice #INV-2024-005 does not reflect 10% volume discount as per contract #CTR-2023-078. Missing discount value: $3,500.\n\n\nFOUND DISCREPANCIES:\n\n--------------------------------------------------\n\n\u2022 Invoice Number\n  INV-2024-005\n\n\u2022 Contract Reference\n  CTR-2023-078\n\n\u2022 Missing Discount\n  10% volume discount\n\n\u2022 Amount to be credited\n  $3,500\n\n\u2022 Total invoice value\n  $35,000\n\n\n\nBest regards,\nAccounts Payable Team\nGenBooks",
+    "draft_body_html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Invoice [Invoice Number] - Discount Not Applied</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 650px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n\n        .header {\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 30px;\n            border-radius: 8px 8px 0 0;\n            text-align: center;\n        }\n\n        .header h1 {\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n        }\n\n        .content {\n            background: #f9fafb;\n            padding: 30px;\n            border-left: 1px solid #e5e7eb;\n            border-right: 1px solid #e5e7eb;\n        }\n\n        .greeting {\n            font-size: 16px;\n            margin-bottom: 20px;\n            color: #1f2937;\n        }\n\n        .intro {\n            margin-bottom: 25px;\n            line-height: 1.8;\n        }\n\n        .section-title {\n            font-size: 14px;\n            font-weight: 700;\n            color: #6b7280;\n            text-transform: uppercase;\n            letter-spacing: 0.5px;\n            margin: 30px 0 15px 0;\n            padding-bottom: 8px;\n            border-bottom: 2px solid #e5e7eb;\n        }\n\n        .discrepancy-list {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n        }\n\n        .disc-item {\n            padding: 15px;\n            border-left: 4px solid #f59e0b;\n            background: #fef3c7;\n            margin-bottom: 15px;\n            border-radius: 4px;\n        }\n\n        .disc-item:last-child {\n            margin-bottom: 0;\n        }\n\n        .disc-item strong {\n            color: #92400e;\n            display: block;\n            margin-bottom: 5px;\n        }\n\n        .key-points {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n        }\n\n        .key-points li {\n            margin-bottom: 10px;\n            padding-left: 10px;\n        }\n\n        .key-points li::marker {\n            color: #667eea;\n            font-weight: bold;\n        }\n\n        .action-request {\n            background: #eef2ff;\n            border-left: 4px solid #667eea;\n            padding: 20px;\n            margin: 25px 0;\n            border-radius: 4px;\n        }\n\n        .action-request p {\n            margin: 10px 0;\n        }\n\n        .cta {\n            text-align: center;\n            margin: 30px 0;\n        }\n\n        .cta-button {\n            display: inline-block;\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 15px 40px;\n            text-decoration: none;\n            border-radius: 6px;\n            font-weight: 600;\n            transition: transform 0.2s;\n        }\n\n        .cta-button:hover {\n            transform: translateY(-2px);\n        }\n\n        .footer {\n            background: #1f2937;\n            color: #9ca3af;\n            padding: 30px;\n            border-radius: 0 0 8px 8px;\n            text-align: center;\n        }\n\n        .footer .signature {\n            color: white;\n            margin-bottom: 5px;\n        }\n\n        .footer .company {\n            font-size: 12px;\n            color: #6b7280;\n        }\n\n        .warning {\n            background: #fef3c7;\n            border: 1px solid #f59e0b;\n            padding: 15px;\n            border-radius: 6px;\n            margin: 20px 0;\n            display: flex;\n            align-items: flex-start;\n        }\n\n        .warning-icon {\n            color: #f59e0b;\n            margin-right: 12px;\n            font-size: 20px;\n            flex-shrink: 0;\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"header\">\n        <h1>\ud83d\udd0d Discrepancy Notification</h1>\n    </div>\n\n    <div class=\"content\">\n        <div class=\"greeting\">\n            Dear Dhivya Sreenidhi Durai Team,\n        </div>\n\n        <div class=\"intro\">\n            Invoice #INV-2024-005 does not reflect 10% volume discount as per contract #CTR-2023-078. Missing discount value: $3,500.\n        </div>\n\n        \n        <div class=\"section-title\">\n            \ud83d\udccb Found Discrepancies\n        </div>\n\n        <div class=\"discrepancy-list\">\n            <div class=\"disc-item\">\n                <strong>Invoice Number</strong>\n                INV-2024-005\n            </div>\n            <div class=\"disc-item\">\n                <strong>Contract Reference</strong>\n                CTR-2023-078\n            </div>\n            <div class=\"disc-item\">\n                <strong>Missing Discount</strong>\n                10% volume discount\n            </div>\n            <div class=\"disc-item\">\n                <strong>Amount to be credited</strong>\n                $3,500\n            </div>\n            <div class=\"disc-item\">\n                <strong>Total invoice value</strong>\n                $35,000\n            </div>\n        </div>\n\n        \n\n        <div class=\"section-title\">\n            \u2705 Request for Action\n        </div>\n\n        <div class=\"action-request\">\n            <p>To proceed with payment processing, we kindly request the following:</p>\n            <ul>\n                <li>Review the discrepancies outlined above</li>\n                <li>Provide corrected information or clarification</li>\n                <li>Issue a revised invoice/credit note if applicable</li>\n                <li>Confirm receipt and expected timeline for resolution</li>\n            </ul>\n        </div>\n\n        \n        <div class=\"cta\">\n            <a href=\"mailto:ap@genbooks.com\" class=\"cta-button\">Reply to This Email</a>\n        </div>\n\n        \n        <div class=\"warning\">\n            <div class=\"warning-icon\">\u26a0\ufe0f</div>\n            <div>Please respond within 5 business days to avoid payment delays.</div>\n        </div>\n\n        <div style=\"margin-top: 30px;\">\n            <p>We value our partnership and appreciate your prompt attention to this matter.</p>\n            <p>If you have any questions or need clarification, please don't hesitate to contact us.</p>\n        </div>\n    </div>\n\n    <div class=\"footer\">\n        <div class=\"signature\">\n            <strong>Best regards,</strong><br>\n            Accounts Payable Team<br>\n            GenBooks\n        </div>\n        <div class=\"company\">\n            <br>\n            <br>\n            <br>\n            <small>This email was automated by DRA System</small>\n        </div>\n    </div>\n</body>\n\n</html>",
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:59:45.866275",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536258713.47002.15269451375808627921@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "02E5F20F5EAD",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Monthly Statement Reconciliation Request",
+    "draft_body": "Dear Dhivya Sreenidhi Durai Team,\n\nRequesting the monthly statement for December 2024 for our accounts reconciliation process.\n\n\nKEY DETAILS:\n\n\u2022 Statement period: December 2024\n\u2022 Account Number: CUST-2024-789\n\u2022 Format: PDF and Excel preferred\n\u2022 Urgency: Required by Dec 15\n\n\n\nBest regards,\nAccounts Team\nGenBooks",
+    "draft_body_html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Monthly Statement Reconciliation Request</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 650px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n\n        .header {\n            background: linear-gradient(135deg, #10b981 0%, #059669 100%);\n            color: white;\n            padding: 30px;\n            border-radius: 8px 8px 0 0;\n            text-align: center;\n        }\n\n        .header h1 {\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n        }\n\n        .content {\n            background: #f9fafb;\n            padding: 30px;\n            border-left: 1px solid #e5e7eb;\n            border-right: 1px solid #e5e7eb;\n        }\n\n        .greeting {\n            font-size: 16px;\n            margin-bottom: 20px;\n            color: #1f2937;\n        }\n\n        .intro {\n            margin-bottom: 25px;\n            line-height: 1.8;\n        }\n\n        .section-title {\n            font-size: 14px;\n            font-weight: 700;\n            color: #6b7280;\n            text-transform: uppercase;\n            letter-spacing: 0.5px;\n            margin: 30px 0 15px 0;\n            padding-bottom: 8px;\n            border-bottom: 2px solid #e5e7eb;\n        }\n\n        .key-points {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n        }\n\n        .key-points li {\n            margin-bottom: 10px;\n            padding-left: 10px;\n        }\n\n        .key-points li::marker {\n            color: #10b981;\n            font-weight: bold;\n        }\n\n        .highlight-box {\n            background: #d1fae5;\n            border-left: 4px solid #10b981;\n            padding: 20px;\n            margin: 25px 0;\n            border-radius: 4px;\n        }\n\n        .highlight-box p {\n            margin: 10px 0;\n        }\n\n        .cta {\n            text-align: center;\n            margin: 30px 0;\n        }\n\n        .cta-button {\n            display: inline-block;\n            background: linear-gradient(135deg, #10b981 0%, #059669 100%);\n            color: white;\n            padding: 15px 40px;\n            text-decoration: none;\n            border-radius: 6px;\n            font-weight: 600;\n            transition: transform 0.2s;\n        }\n\n        .cta-button:hover {\n            transform: translateY(-2px);\n        }\n\n        .footer {\n            background: #1f2937;\n            color: #9ca3af;\n            padding: 30px;\n            border-radius: 0 0 8px 8px;\n            text-align: center;\n        }\n\n        .footer .signature {\n            color: white;\n            margin-bottom: 5px;\n        }\n\n        .footer .company {\n            font-size: 12px;\n            color: #6b7280;\n        }\n\n        .info-box {\n            background: #eef2ff;\n            border: 1px solid #c7d2fe;\n            padding: 15px;\n            border-radius: 6px;\n            margin: 20px 0;\n        }\n\n        .info-box-title {\n            font-weight: 600;\n            color: #4c1d95;\n            margin-bottom: 10px;\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"header\">\n        <h1>\ud83d\udce7 Business Communication</h1>\n    </div>\n\n    <div class=\"content\">\n        <div class=\"greeting\">\n            Dear Dhivya Sreenidhi Durai Team,\n        </div>\n\n        <div class=\"intro\">\n            Requesting the monthly statement for December 2024 for our accounts reconciliation process.\n        </div>\n\n        \n        <div class=\"section-title\">\n            \ud83d\udd11 Important Details\n        </div>\n\n        <div class=\"key-points\">\n            <ul>\n                <li>Statement period: December 2024</li>\n                <li>Account Number: CUST-2024-789</li>\n                <li>Format: PDF and Excel preferred</li>\n                <li>Urgency: Required by Dec 15</li>\n            </ul>\n        </div>\n\n        \n\n        \n\n        \n        <div class=\"cta\">\n            <a href=\"mailto:accounts@genbooks.com\" class=\"cta-button\">Reply to this Email</a>\n        </div>\n\n        <div style=\"margin-top: 30px;\">\n            <p>We appreciate your partnership and look forward to continuing our collaboration.</p>\n            \n        </div>\n    </div>\n\n    <div class=\"footer\">\n        <div class=\"signature\">\n            <strong>Best regards,</strong><br>\n            Accounts Team<br>\n            GenBooks\n        </div>\n        <div class=\"company\">\n            <br>\n            <br>\n            <br>\n            <small>Thank you for your business</small>\n        </div>\n    </div>\n</body>\n\n</html>",
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:59:49.983629",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536259266.47002.7670913377004781618@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "C130FC7EEE1A",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Purchase Order Confirmation - [Your Company Name]",
+    "draft_body": "Dear Dhivya Sreenidhi Durai Team,\n\nConfirming receipt and acceptance of Purchase Order #PO-2024-1234 for office supplies.\n\n\nKEY DETAILS:\n\n\u2022 PO Number: PO-2024-1234\n\u2022 Order Value: $8,500\n\u2022 Expected delivery: Dec 20, 2024\n\u2022 Delivery address confirmed\n\n\n\nBest regards,\nAccounts Team\nGenBooks",
+    "draft_body_html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Purchase Order Confirmation - [Your Company Name]</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 650px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n\n        .header {\n            background: linear-gradient(135deg, #10b981 0%, #059669 100%);\n            color: white;\n            padding: 30px;\n            border-radius: 8px 8px 0 0;\n            text-align: center;\n        }\n\n        .header h1 {\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n        }\n\n        .content {\n            background: #f9fafb;\n            padding: 30px;\n            border-left: 1px solid #e5e7eb;\n            border-right: 1px solid #e5e7eb;\n        }\n\n        .greeting {\n            font-size: 16px;\n            margin-bottom: 20px;\n            color: #1f2937;\n        }\n\n        .intro {\n            margin-bottom: 25px;\n            line-height: 1.8;\n        }\n\n        .section-title {\n            font-size: 14px;\n            font-weight: 700;\n            color: #6b7280;\n            text-transform: uppercase;\n            letter-spacing: 0.5px;\n            margin: 30px 0 15px 0;\n            padding-bottom: 8px;\n            border-bottom: 2px solid #e5e7eb;\n        }\n\n        .key-points {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n        }\n\n        .key-points li {\n            margin-bottom: 10px;\n            padding-left: 10px;\n        }\n\n        .key-points li::marker {\n            color: #10b981;\n            font-weight: bold;\n        }\n\n        .highlight-box {\n            background: #d1fae5;\n            border-left: 4px solid #10b981;\n            padding: 20px;\n            margin: 25px 0;\n            border-radius: 4px;\n        }\n\n        .highlight-box p {\n            margin: 10px 0;\n        }\n\n        .cta {\n            text-align: center;\n            margin: 30px 0;\n        }\n\n        .cta-button {\n            display: inline-block;\n            background: linear-gradient(135deg, #10b981 0%, #059669 100%);\n            color: white;\n            padding: 15px 40px;\n            text-decoration: none;\n            border-radius: 6px;\n            font-weight: 600;\n            transition: transform 0.2s;\n        }\n\n        .cta-button:hover {\n            transform: translateY(-2px);\n        }\n\n        .footer {\n            background: #1f2937;\n            color: #9ca3af;\n            padding: 30px;\n            border-radius: 0 0 8px 8px;\n            text-align: center;\n        }\n\n        .footer .signature {\n            color: white;\n            margin-bottom: 5px;\n        }\n\n        .footer .company {\n            font-size: 12px;\n            color: #6b7280;\n        }\n\n        .info-box {\n            background: #eef2ff;\n            border: 1px solid #c7d2fe;\n            padding: 15px;\n            border-radius: 6px;\n            margin: 20px 0;\n        }\n\n        .info-box-title {\n            font-weight: 600;\n            color: #4c1d95;\n            margin-bottom: 10px;\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"header\">\n        <h1>\ud83d\udce7 Business Communication</h1>\n    </div>\n\n    <div class=\"content\">\n        <div class=\"greeting\">\n            Dear Dhivya Sreenidhi Durai Team,\n        </div>\n\n        <div class=\"intro\">\n            Confirming receipt and acceptance of Purchase Order #PO-2024-1234 for office supplies.\n        </div>\n\n        \n        <div class=\"section-title\">\n            \ud83d\udd11 Important Details\n        </div>\n\n        <div class=\"key-points\">\n            <ul>\n                <li>PO Number: PO-2024-1234</li>\n                <li>Order Value: $8,500</li>\n                <li>Expected delivery: Dec 20, 2024</li>\n                <li>Delivery address confirmed</li>\n            </ul>\n        </div>\n\n        \n\n        \n\n        \n        <div class=\"cta\">\n            <a href=\"mailto:accounts@genbooks.com\" class=\"cta-button\">Reply to this Email</a>\n        </div>\n\n        <div style=\"margin-top: 30px;\">\n            <p>We appreciate your partnership and look forward to continuing our collaboration.</p>\n            \n        </div>\n    </div>\n\n    <div class=\"footer\">\n        <div class=\"signature\">\n            <strong>Best regards,</strong><br>\n            Accounts Team<br>\n            GenBooks\n        </div>\n        <div class=\"company\">\n            <br>\n            <br>\n            <br>\n            <small>Thank you for your business</small>\n        </div>\n    </div>\n</body>\n\n</html>",
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:59:55.512267",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536259687.47002.2096442820576770322@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "AB3E4C96FDBC",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Payment Schedule Update",
+    "draft_body": "Dear Dhivya Sreenidhi Durai Team,\n\nInforming about updated payment schedule for Q1 2025 as per our revised terms agreement.\n\n\nKEY DETAILS:\n\n\u2022 New payment terms: Net 45\n\u2022 Effective from: Jan 1, 2025\n\u2022 Monthly payment date: 15th\n\u2022 Wire transfer details enclosed\n\n\n\nBest regards,\nAccounts Team\nGenBooks",
+    "draft_body_html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Schedule Update</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 650px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n\n        .header {\n            background: linear-gradient(135deg, #10b981 0%, #059669 100%);\n            color: white;\n            padding: 30px;\n            border-radius: 8px 8px 0 0;\n            text-align: center;\n        }\n\n        .header h1 {\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n        }\n\n        .content {\n            background: #f9fafb;\n            padding: 30px;\n            border-left: 1px solid #e5e7eb;\n            border-right: 1px solid #e5e7eb;\n        }\n\n        .greeting {\n            font-size: 16px;\n            margin-bottom: 20px;\n            color: #1f2937;\n        }\n\n        .intro {\n            margin-bottom: 25px;\n            line-height: 1.8;\n        }\n\n        .section-title {\n            font-size: 14px;\n            font-weight: 700;\n            color: #6b7280;\n            text-transform: uppercase;\n            letter-spacing: 0.5px;\n            margin: 30px 0 15px 0;\n            padding-bottom: 8px;\n            border-bottom: 2px solid #e5e7eb;\n        }\n\n        .key-points {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n        }\n\n        .key-points li {\n            margin-bottom: 10px;\n            padding-left: 10px;\n        }\n\n        .key-points li::marker {\n            color: #10b981;\n            font-weight: bold;\n        }\n\n        .highlight-box {\n            background: #d1fae5;\n            border-left: 4px solid #10b981;\n            padding: 20px;\n            margin: 25px 0;\n            border-radius: 4px;\n        }\n\n        .highlight-box p {\n            margin: 10px 0;\n        }\n\n        .cta {\n            text-align: center;\n            margin: 30px 0;\n        }\n\n        .cta-button {\n            display: inline-block;\n            background: linear-gradient(135deg, #10b981 0%, #059669 100%);\n            color: white;\n            padding: 15px 40px;\n            text-decoration: none;\n            border-radius: 6px;\n            font-weight: 600;\n            transition: transform 0.2s;\n        }\n\n        .cta-button:hover {\n            transform: translateY(-2px);\n        }\n\n        .footer {\n            background: #1f2937;\n            color: #9ca3af;\n            padding: 30px;\n            border-radius: 0 0 8px 8px;\n            text-align: center;\n        }\n\n        .footer .signature {\n            color: white;\n            margin-bottom: 5px;\n        }\n\n        .footer .company {\n            font-size: 12px;\n            color: #6b7280;\n        }\n\n        .info-box {\n            background: #eef2ff;\n            border: 1px solid #c7d2fe;\n            padding: 15px;\n            border-radius: 6px;\n            margin: 20px 0;\n        }\n\n        .info-box-title {\n            font-weight: 600;\n            color: #4c1d95;\n            margin-bottom: 10px;\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"header\">\n        <h1>\ud83d\udce7 Business Communication</h1>\n    </div>\n\n    <div class=\"content\">\n        <div class=\"greeting\">\n            Dear Dhivya Sreenidhi Durai Team,\n        </div>\n\n        <div class=\"intro\">\n            Informing about updated payment schedule for Q1 2025 as per our revised terms agreement.\n        </div>\n\n        \n        <div class=\"section-title\">\n            \ud83d\udd11 Important Details\n        </div>\n\n        <div class=\"key-points\">\n            <ul>\n                <li>New payment terms: Net 45</li>\n                <li>Effective from: Jan 1, 2025</li>\n                <li>Monthly payment date: 15th</li>\n                <li>Wire transfer details enclosed</li>\n            </ul>\n        </div>\n\n        \n\n        \n\n        \n        <div class=\"cta\">\n            <a href=\"mailto:accounts@genbooks.com\" class=\"cta-button\">Reply to this Email</a>\n        </div>\n\n        <div style=\"margin-top: 30px;\">\n            <p>We appreciate your partnership and look forward to continuing our collaboration.</p>\n            \n        </div>\n    </div>\n\n    <div class=\"footer\">\n        <div class=\"signature\">\n            <strong>Best regards,</strong><br>\n            Accounts Team<br>\n            GenBooks\n        </div>\n        <div class=\"company\">\n            <br>\n            <br>\n            <br>\n            <small>Thank you for your business</small>\n        </div>\n    </div>\n</body>\n\n</html>",
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T15:59:59.404121",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536260137.47002.6654462241732475538@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "9C9C975292E5",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Invitation to Vendor Performance Review Meeting",
+    "draft_body": "Dear Dhivya Sreenidhi Durai Team,\n\nScheduling quarterly vendor review meeting to discuss performance metrics and future requirements.\n\n\nKEY DETAILS:\n\n\u2022 Meeting Date: Dec 18, 2024\n\u2022 Time: 2:00 PM - 3:30 PM\n\u2022 Location: Virtual (Teams)\n\u2022 Agenda: Q4 performance, Q1 planning\n\n\n\nBest regards,\nAccounts Team\nGenBooks",
+    "draft_body_html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Invitation to Vendor Performance Review Meeting</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 650px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n\n        .header {\n            background: linear-gradient(135deg, #10b981 0%, #059669 100%);\n            color: white;\n            padding: 30px;\n            border-radius: 8px 8px 0 0;\n            text-align: center;\n        }\n\n        .header h1 {\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n        }\n\n        .content {\n            background: #f9fafb;\n            padding: 30px;\n            border-left: 1px solid #e5e7eb;\n            border-right: 1px solid #e5e7eb;\n        }\n\n        .greeting {\n            font-size: 16px;\n            margin-bottom: 20px;\n            color: #1f2937;\n        }\n\n        .intro {\n            margin-bottom: 25px;\n            line-height: 1.8;\n        }\n\n        .section-title {\n            font-size: 14px;\n            font-weight: 700;\n            color: #6b7280;\n            text-transform: uppercase;\n            letter-spacing: 0.5px;\n            margin: 30px 0 15px 0;\n            padding-bottom: 8px;\n            border-bottom: 2px solid #e5e7eb;\n        }\n\n        .key-points {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n        }\n\n        .key-points li {\n            margin-bottom: 10px;\n            padding-left: 10px;\n        }\n\n        .key-points li::marker {\n            color: #10b981;\n            font-weight: bold;\n        }\n\n        .highlight-box {\n            background: #d1fae5;\n            border-left: 4px solid #10b981;\n            padding: 20px;\n            margin: 25px 0;\n            border-radius: 4px;\n        }\n\n        .highlight-box p {\n            margin: 10px 0;\n        }\n\n        .cta {\n            text-align: center;\n            margin: 30px 0;\n        }\n\n        .cta-button {\n            display: inline-block;\n            background: linear-gradient(135deg, #10b981 0%, #059669 100%);\n            color: white;\n            padding: 15px 40px;\n            text-decoration: none;\n            border-radius: 6px;\n            font-weight: 600;\n            transition: transform 0.2s;\n        }\n\n        .cta-button:hover {\n            transform: translateY(-2px);\n        }\n\n        .footer {\n            background: #1f2937;\n            color: #9ca3af;\n            padding: 30px;\n            border-radius: 0 0 8px 8px;\n            text-align: center;\n        }\n\n        .footer .signature {\n            color: white;\n            margin-bottom: 5px;\n        }\n\n        .footer .company {\n            font-size: 12px;\n            color: #6b7280;\n        }\n\n        .info-box {\n            background: #eef2ff;\n            border: 1px solid #c7d2fe;\n            padding: 15px;\n            border-radius: 6px;\n            margin: 20px 0;\n        }\n\n        .info-box-title {\n            font-weight: 600;\n            color: #4c1d95;\n            margin-bottom: 10px;\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"header\">\n        <h1>\ud83d\udce7 Business Communication</h1>\n    </div>\n\n    <div class=\"content\">\n        <div class=\"greeting\">\n            Dear Dhivya Sreenidhi Durai Team,\n        </div>\n\n        <div class=\"intro\">\n            Scheduling quarterly vendor review meeting to discuss performance metrics and future requirements.\n        </div>\n\n        \n        <div class=\"section-title\">\n            \ud83d\udd11 Important Details\n        </div>\n\n        <div class=\"key-points\">\n            <ul>\n                <li>Meeting Date: Dec 18, 2024</li>\n                <li>Time: 2:00 PM - 3:30 PM</li>\n                <li>Location: Virtual (Teams)</li>\n                <li>Agenda: Q4 performance, Q1 planning</li>\n            </ul>\n        </div>\n\n        \n\n        \n\n        \n        <div class=\"cta\">\n            <a href=\"mailto:accounts@genbooks.com\" class=\"cta-button\">Reply to this Email</a>\n        </div>\n\n        <div style=\"margin-top: 30px;\">\n            <p>We appreciate your partnership and look forward to continuing our collaboration.</p>\n            \n        </div>\n    </div>\n\n    <div class=\"footer\">\n        <div class=\"signature\">\n            <strong>Best regards,</strong><br>\n            Accounts Team<br>\n            GenBooks\n        </div>\n        <div class=\"company\">\n            <br>\n            <br>\n            <br>\n            <small>Thank you for your business</small>\n        </div>\n    </div>\n</body>\n\n</html>",
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T16:00:03.925548",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536260555.47002.12513382966333390684@csss-macbook-pro-4.local>",
+    "notes": null
+  },
+  {
+    "request_id": "5D5354CDA7CA",
+    "draft_to": [
+      "dhivyasreenidhidurai@gmail.com"
+    ],
+    "draft_subject": "Thank you for Timely Delivery",
+    "draft_body": "Dear Dhivya Sreenidhi Durai Team,\n\nExpressing appreciation for the excellent service and timely delivery of our recent order.\n\n\nKEY DETAILS:\n\n\u2022 Order Reference: ORD-2024-567\n\u2022 Delivery date: Dec 5, 2024\n\u2022 Quality: Excellent\n\u2022 Appreciation for partnership\n\n\n\nBest regards,\nAccounts Team\nGenBooks",
+    "draft_body_html": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Thank you for Timely Delivery</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 650px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n\n        .header {\n            background: linear-gradient(135deg, #10b981 0%, #059669 100%);\n            color: white;\n            padding: 30px;\n            border-radius: 8px 8px 0 0;\n            text-align: center;\n        }\n\n        .header h1 {\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n        }\n\n        .content {\n            background: #f9fafb;\n            padding: 30px;\n            border-left: 1px solid #e5e7eb;\n            border-right: 1px solid #e5e7eb;\n        }\n\n        .greeting {\n            font-size: 16px;\n            margin-bottom: 20px;\n            color: #1f2937;\n        }\n\n        .intro {\n            margin-bottom: 25px;\n            line-height: 1.8;\n        }\n\n        .section-title {\n            font-size: 14px;\n            font-weight: 700;\n            color: #6b7280;\n            text-transform: uppercase;\n            letter-spacing: 0.5px;\n            margin: 30px 0 15px 0;\n            padding-bottom: 8px;\n            border-bottom: 2px solid #e5e7eb;\n        }\n\n        .key-points {\n            background: white;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n        }\n\n        .key-points li {\n            margin-bottom: 10px;\n            padding-left: 10px;\n        }\n\n        .key-points li::marker {\n            color: #10b981;\n            font-weight: bold;\n        }\n\n        .highlight-box {\n            background: #d1fae5;\n            border-left: 4px solid #10b981;\n            padding: 20px;\n            margin: 25px 0;\n            border-radius: 4px;\n        }\n\n        .highlight-box p {\n            margin: 10px 0;\n        }\n\n        .cta {\n            text-align: center;\n            margin: 30px 0;\n        }\n\n        .cta-button {\n            display: inline-block;\n            background: linear-gradient(135deg, #10b981 0%, #059669 100%);\n            color: white;\n            padding: 15px 40px;\n            text-decoration: none;\n            border-radius: 6px;\n            font-weight: 600;\n            transition: transform 0.2s;\n        }\n\n        .cta-button:hover {\n            transform: translateY(-2px);\n        }\n\n        .footer {\n            background: #1f2937;\n            color: #9ca3af;\n            padding: 30px;\n            border-radius: 0 0 8px 8px;\n            text-align: center;\n        }\n\n        .footer .signature {\n            color: white;\n            margin-bottom: 5px;\n        }\n\n        .footer .company {\n            font-size: 12px;\n            color: #6b7280;\n        }\n\n        .info-box {\n            background: #eef2ff;\n            border: 1px solid #c7d2fe;\n            padding: 15px;\n            border-radius: 6px;\n            margin: 20px 0;\n        }\n\n        .info-box-title {\n            font-weight: 600;\n            color: #4c1d95;\n            margin-bottom: 10px;\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"header\">\n        <h1>\ud83d\udce7 Business Communication</h1>\n    </div>\n\n    <div class=\"content\">\n        <div class=\"greeting\">\n            Dear Dhivya Sreenidhi Durai Team,\n        </div>\n\n        <div class=\"intro\">\n            Expressing appreciation for the excellent service and timely delivery of our recent order.\n        </div>\n\n        \n        <div class=\"section-title\">\n            \ud83d\udd11 Important Details\n        </div>\n\n        <div class=\"key-points\">\n            <ul>\n                <li>Order Reference: ORD-2024-567</li>\n                <li>Delivery date: Dec 5, 2024</li>\n                <li>Quality: Excellent</li>\n                <li>Appreciation for partnership</li>\n            </ul>\n        </div>\n\n        \n\n        \n\n        \n        <div class=\"cta\">\n            <a href=\"mailto:accounts@genbooks.com\" class=\"cta-button\">Reply to this Email</a>\n        </div>\n\n        <div style=\"margin-top: 30px;\">\n            <p>We appreciate your partnership and look forward to continuing our collaboration.</p>\n            \n        </div>\n    </div>\n\n    <div class=\"footer\">\n        <div class=\"signature\">\n            <strong>Best regards,</strong><br>\n            Accounts Team<br>\n            GenBooks\n        </div>\n        <div class=\"company\">\n            <br>\n            <br>\n            <br>\n            <small>Thank you for your business</small>\n        </div>\n    </div>\n</body>\n\n</html>",
+    "final_recipient_email": "dhivyasreenidhidurai@gmail.com",
+    "final_recipient_name": "Dhivya Sreenidhi Durai",
+    "approver_email": "arunsukumar03@gmail.com",
+    "status": "pending",
+    "created_at": "2025-12-10T16:00:08.356416",
+    "approved_at": null,
+    "rejected_at": null,
+    "sent_at": null,
+    "approval_message_id": "<176536260967.47002.10004689481638553324@csss-macbook-pro-4.local>",
+    "notes": null
+  }
+]

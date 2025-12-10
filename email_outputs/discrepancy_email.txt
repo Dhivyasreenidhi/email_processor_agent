@@ -1,0 +1,29 @@
+Dear Acme Corp Team,
+
+We have reviewed your recent invoice submission and identified some discrepancies that require your attention before we can process the payment.
+
+
+FOUND DISCREPANCIES:
+
+--------------------------------------------------
+
+• Unit Price Mismatch
+  Invoice shows $150 per unit but PO #PO-2024-789 states $125 per unit. Total overcharge: $250
+
+• Quantity Difference
+  Invoiced for 10 units but only 8 units were delivered as per GRN #GRN-2024-456
+
+
+
+KEY DETAILS:
+
+• Invoice Number: INV-2024-001
+• PO Number: PO-2024-789
+• Total Discrepancy Value: $250 + missing 2 units
+• Request for revised invoice or credit note
+
+
+
+Best regards,
+Accounts Payable Team
+GenBooks Inc.

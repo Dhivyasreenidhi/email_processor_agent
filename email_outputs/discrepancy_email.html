@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invoice Discrepancy - Action Required</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 650px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 8px 8px 0 0;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+            font-weight: 600;
+        }
+
+        .content {
+            background: #f9fafb;
+            padding: 30px;
+            border-left: 1px solid #e5e7eb;
+            border-right: 1px solid #e5e7eb;
+        }
+
+        .greeting {
+            font-size: 16px;
+            margin-bottom: 20px;
+            color: #1f2937;
+        }
+
+        .intro {
+            margin-bottom: 25px;
+            line-height: 1.8;
+        }
+
+        .section-title {
+            font-size: 14px;
+            font-weight: 700;
+            color: #6b7280;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin: 30px 0 15px 0;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #e5e7eb;
+        }
+
+        .discrepancy-list {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .disc-item {
+            padding: 15px;
+            border-left: 4px solid #f59e0b;
+            background: #fef3c7;
+            margin-bottom: 15px;
+            border-radius: 4px;
+        }
+
+        .disc-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .disc-item strong {
+            color: #92400e;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .key-points {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        .key-points li {
+            margin-bottom: 10px;
+            padding-left: 10px;
+        }
+
+        .key-points li::marker {
+            color: #667eea;
+            font-weight: bold;
+        }
+
+        .action-request {
+            background: #eef2ff;
+            border-left: 4px solid #667eea;
+            padding: 20px;
+            margin: 25px 0;
+            border-radius: 4px;
+        }
+
+        .action-request p {
+            margin: 10px 0;
+        }
+
+        .cta {
+            text-align: center;
+            margin: 30px 0;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 40px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+            transition: transform 0.2s;
+        }
+
+        .cta-button:hover {
+            transform: translateY(-2px);
+        }
+
+        .footer {
+            background: #1f2937;
+            color: #9ca3af;
+            padding: 30px;
+            border-radius: 0 0 8px 8px;
+            text-align: center;
+        }
+
+        .footer .signature {
+            color: white;
+            margin-bottom: 5px;
+        }
+
+        .footer .company {
+            font-size: 12px;
+            color: #6b7280;
+        }
+
+        .warning {
+            background: #fef3c7;
+            border: 1px solid #f59e0b;
+            padding: 15px;
+            border-radius: 6px;
+            margin: 20px 0;
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .warning-icon {
+            color: #f59e0b;
+            margin-right: 12px;
+            font-size: 20px;
+            flex-shrink: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>🔍 Discrepancy Notification</h1>
+    </div>
+
+    <div class="content">
+        <div class="greeting">
+            Dear Acme Corp Team,
+        </div>
+
+        <div class="intro">
+            We have reviewed your recent invoice submission and identified some discrepancies that require your attention before we can process the payment.
+        </div>
+
+        <div class="section-title">
+            📋 Found Discrepancies
+        </div>
+
+        <div class="discrepancy-list">
+            <div class="disc-item">
+                <strong>Unit Price Mismatch</strong>
+                Invoice shows $150 per unit but PO #PO-2024-789 states $125 per unit. Total overcharge: $250
+            </div>
+            <div class="disc-item">
+                <strong>Quantity Difference</strong>
+                Invoiced for 10 units but only 8 units were delivered as per GRN #GRN-2024-456
+            </div>
+        </div>
+
+        <div class="section-title">
+            🔑 Key Details
+        </div>
+
+        <div class="key-points">
+            <ul>
+                <li>Invoice Number: INV-2024-001</li>
+                <li>PO Number: PO-2024-789</li>
+                <li>Total Discrepancy Value: $250 + missing 2 units</li>
+                <li>Request for revised invoice or credit note</li>
+            </ul>
+        </div>
+
+        <div class="section-title">
+            ✅ Request for Action
+        </div>
+
+        <div class="action-request">
+            <p>To proceed with payment processing, we kindly request the following:</p>
+            <ul>
+                <li>Review the discrepancies outlined above</li>
+                <li>Provide corrected information or clarification</li>
+                <li>Issue a revised invoice/credit note if applicable</li>
+                <li>Confirm receipt and expected timeline for resolution</li>
+            </ul>
+        </div>
+
+        <div class="cta">
+            <a href="mailto:ap@genbooks.com" class="cta-button">Reply to This Email</a>
+        </div>
+
+        <div class="warning">
+            <div class="warning-icon">⚠️</div>
+            <div>Payment processing has been temporarily held pending resolution of these discrepancies.</div>
+        </div>
+
+        <div style="margin-top: 30px;">
+            <p>We value our partnership and appreciate your prompt attention to this matter.</p>
+            <p>If you have any questions or need clarification, please don't hesitate to contact us.</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="signature">
+            <strong>Best regards,</strong><br>
+            Accounts Payable Team<br>
+            GenBooks Inc.
+        </div>
+        <div class="company">
+            <br>
+            <br>
+            <br>
+            <small>This email was automated by DRA System</small>
+        </div>
+    </div>
+</body>
+
+</html>
