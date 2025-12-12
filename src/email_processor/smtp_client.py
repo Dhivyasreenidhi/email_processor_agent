@@ -82,8 +82,16 @@ class GmailSMTPClient:
 
     def _create_message(self, draft: EmailDraft) -> MIMEMultipart:
         """Create MIME message from draft."""
+        # Log whether we have HTML content
+        has_html = draft.body_html and len(draft.body_html.strip()) > 0
+        logger.info(f"Creating email message with HTML: {has_html}")
+        
+        if has_html:
+            logger.debug(f"HTML body length: {len(draft.body_html)} characters")
+        
         # Create message container
-        if draft.body_html:
+        # Use 'alternative' for emails with both text and HTML
+        if has_html:
             msg = MIMEMultipart("alternative")
         else:
             msg = MIMEMultipart()
@@ -118,14 +126,19 @@ class GmailSMTPClient:
         if draft.references:
             msg["References"] = " ".join(draft.references)
 
-        # Add text body
+        # IMPORTANT: For multipart/alternative, add parts from least rich to most rich
+        # Email clients will display the richest format they support
+        
+        # Add text body first (plain text)
         text_part = MIMEText(draft.body_text, "plain", "utf-8")
         msg.attach(text_part)
+        logger.debug("Attached plain text body")
 
-        # Add HTML body if present
-        if draft.body_html:
+        # Add HTML body if present (richer format, should be attached last)
+        if has_html:
             html_part = MIMEText(draft.body_html, "html", "utf-8")
             msg.attach(html_part)
+            logger.info("Attached HTML body - email will be sent as HTML")
 
         # Add attachments
         for attachment in draft.attachments:

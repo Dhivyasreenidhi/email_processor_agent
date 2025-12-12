@@ -136,7 +136,8 @@ class ApprovalWorkflow:
                         draft = EmailDraft(
                             to=[EmailAddress(email=item["draft_to"][0])],
                             subject=item["draft_subject"],
-                            body_text=item["draft_body"]
+                            body_text=item["draft_body"],
+                            body_html=item.get("draft_body_html")  # Load HTML body!
                         )
                         final_recipient = EmailAddress(
                             email=item["final_recipient_email"],
@@ -332,6 +333,12 @@ Email Processor Agent
 
     def _send_final_email(self, request: ApprovalRequest):
         """Send the approved email to the final recipient."""
+        # Log HTML body info
+        has_html = request.draft.body_html and len(request.draft.body_html.strip()) > 0
+        logger.info(f"Preparing to send final email with HTML: {has_html}")
+        if has_html:
+            logger.debug(f"HTML body length: {len(request.draft.body_html)} characters")
+        
         # Create the final email with the actual recipient
         final_email = EmailDraft(
             to=[request.final_recipient],
@@ -341,6 +348,8 @@ Email Processor Agent
         )
 
         console.print(f"[cyan]📤 Sending approved email to {request.final_recipient.email}...[/cyan]")
+        if has_html:
+            console.print(f"[cyan]   📧 Sending as HTML email with visual formatting[/cyan]")
         
         with self.smtp_client.connect():
             message_id = self.smtp_client.send(final_email)

@@ -168,11 +168,12 @@ def approve_email(request_id):
         settings = get_settings()
         workflow = ApprovalWorkflow(settings=settings, approver_email=CFO_EMAIL)
         
-        # Reconstruct the approval request
+        # Reconstruct the approval request WITH HTML body
         draft = EmailDraft(
             to=[EmailAddress(email=email) for email in request_data['draft_to']],
             subject=request_data['draft_subject'],
-            body_text=request_data['draft_body']
+            body_text=request_data['draft_body'],
+            body_html=request_data.get('draft_body_html')  # Include HTML body!
         )
         
         approval_req = ApprovalRequest(
@@ -186,6 +187,12 @@ def approve_email(request_id):
             approval_message_id=request_data['approval_message_id'],
             created_at=datetime.fromisoformat(request_data['created_at'])
         )
+        
+        # Log HTML info
+        has_html = draft.body_html and len(draft.body_html.strip()) > 0
+        logger.info(f"Approving email for {request_data['final_recipient_email']} with HTML: {has_html}")
+        if has_html:
+            logger.info(f"HTML body length: {len(draft.body_html)} characters")
         
         # Send the email to vendor using the workflow's method
         logger.info(f"Sending approved email to {request_data['final_recipient_email']}")

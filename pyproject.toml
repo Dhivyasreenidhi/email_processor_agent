@@ -38,6 +38,8 @@ dependencies = [
     "aioimaplib>=1.0.0",
     "flask>=3.0.0",
     "flask-cors>=4.0.0",
+    "poml>=0.0.8",
+    "guardrails-ai>=0.7.0",
 ]
 
 [project.optional-dependencies]

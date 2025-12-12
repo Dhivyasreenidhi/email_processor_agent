@@ -286,11 +286,18 @@ function showEmailModal(billId) {
 function generateEmailHTML(bill) {
     const emailContent = bill.emailContent || {};
 
+    console.log('generateEmailHTML called');
+    console.log('emailContent:', emailContent);
+    console.log('htmlBody exists?', !!emailContent.htmlBody);
+    console.log('htmlBody length:', emailContent.htmlBody ? emailContent.htmlBody.length : 0);
+
     // If we have the actual HTML body from the template, use it!
-    if (emailContent.htmlBody) {
+    if (emailContent.htmlBody && emailContent.htmlBody.trim().length > 0) {
+        console.log('Using actual HTML body from backend');
         return emailContent.htmlBody;
     }
 
+    console.log('Falling back to simple preview');
     // Otherwise, fall back to the simple preview (for backward compatibility)
     const greeting = emailContent.greeting || `Dear ${bill.vendor || 'Vendor'} Team,`;
     const intro = emailContent.intro || 'We have identified discrepancies in your recent bill submission.';

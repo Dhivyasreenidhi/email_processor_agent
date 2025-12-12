@@ -187,32 +187,54 @@ def generate_test_emails(settings: Settings) -> List[EmailDraft]:
                 signature_name="Accounts Payable Team"
             )
             
-            # Build discrepancies list from key points
-            discrepancies = []
-            for point in template["key_points"]:
-                if ":" in point:
-                    title, details = point.split(":", 1)
-                    discrepancies.append({
-                        "title": title.strip(),
-                        "details": details.strip()
-                    })
-                else:
-                    discrepancies.append({
-                        "title": "Issue",
-                        "details": point
-                    })
+            # Extract invoice and PO data from context for visual template
+            # This is simplified - in production, you'd extract from structured data
+            import random
+            from datetime import datetime, timedelta
             
-            # Render the beautiful HTML email template
-            html_body, plain_text = renderer.render_discrepancy_email(
-                vendor_name=VENDOR_NAME,
-                intro_message=template["context"],
-                discrepancies=discrepancies,
-                subject=draft.subject,
-                signature_name="Accounts Payable Team",
-                company_name="GenBooks",
+            # Generate sample data for visual template
+            po_amount = round(random.uniform(8000, 15000), 2)
+            variance_pct = random.uniform(15, 30)
+            invoice_amount = round(po_amount * (1 + variance_pct/100), 2)
+            variance_amount = round(invoice_amount - po_amount, 2)
+            
+            po_qty = random.randint(80, 150)
+            qty_variance_pct = random.uniform(5, 15)
+            invoice_qty = int(po_qty * (1 + qty_variance_pct/100))
+            
+            unit_price = round(po_amount / po_qty, 2)
+            invoice_unit_price = round(invoice_amount / invoice_qty, 2)
+            
+            resolution_date = (datetime.now() + timedelta(days=5)).strftime('%Y-%m-%d')
+            
+            # Render the beautiful VISUAL HTML email template with bar charts
+            html_body, plain_text = renderer.render_visual_discrepancy_email(
+                invoice_amount=f"{invoice_amount:,.2f}",
+                po_amount=f"{po_amount:,.2f}",
+                variance_amount=f"{variance_amount:,.2f}",
+                invoice_percentage=f"{(invoice_amount/po_amount*100):.1f}",
+                variance_percentage=f"{variance_pct:.1f}",
+                scale_factor="100",
+                po_number=f"PO-2024-{random.randint(1000, 9999)}",
+                po_qty=str(po_qty),
+                unit_price=f"{unit_price:.2f}",
+                invoice_number=f"INV-2024-{random.randint(100, 999):03d}",
+                invoice_qty=str(invoice_qty),
+                invoice_unit_price=f"{invoice_unit_price:.2f}",
+                qty_variance_percentage=f"{qty_variance_pct:.1f}",
+                price_variance_percentage=f"{((invoice_unit_price/unit_price - 1)*100):.2f}",
+                qty_variance=str(invoice_qty - po_qty),
+                price_variance=f"{(invoice_unit_price - unit_price):.2f}",
+                tax_rate="8.5",
+                invoice_tax=f"{random.uniform(9.0, 11.0):.1f}",
+                tax_variance=f"{random.uniform(1.0, 2.5):.1f}",
+                discrepancy_count=str(random.randint(2, 4)),
+                resolution_deadline=resolution_date,
+                company_name="GenBooks Corporation",
                 reply_to_email="ap@genbooks.com",
-                warning_message="Please respond within 5 business days to avoid payment delays.",
-                include_cta=True
+                company_contact="+1 (555) 123-4567",
+                portal_url="https://portal.genbooks.com/upload",
+                reference_number=f"DISC-2024-{random.randint(1000, 9999):04d}-VISUAL"
             )
             
             # Update the draft with HTML
